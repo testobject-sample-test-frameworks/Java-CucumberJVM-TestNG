@@ -18,7 +18,7 @@
     * Add your TestObject API Key and Appium version you would like to run against
     ```
     $ export TESTOBJECT_API_KEY=<your project's api key>
-    $ export TESTOBJECT_APPIUM_VERSION=<your preferred appium version>
+    $ export APPIUM_URL=<your preferred appium endpoint URL>
     ```
 
 ### Running Tests
